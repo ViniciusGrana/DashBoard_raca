@@ -23,3 +23,4 @@ A ferramenta permite ao usuário interagir com os dados de forma visual e intuit
 ## 🎓 Contexto do Projeto
 
 Desenvolvido como parte do módulo de **Análise de Dados** no Curso Técnico, este projeto demonstra competência em **Python para Data Science**, tratamento de dados com Pandas e criação de interfaces para visualização de informações estratégicas.
+
